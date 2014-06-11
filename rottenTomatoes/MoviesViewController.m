@@ -11,7 +11,6 @@
 #import "CastMember.h"
 #import "Movie.h"
 #import "MovieDetailsViewController.h"
-#import "AFNetworkReachabilityManager.h"
 #import "MBProgressHUD.h"
 
 

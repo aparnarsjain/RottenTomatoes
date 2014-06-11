@@ -31,5 +31,9 @@
     self.synopsisLabel.text = movie.synopsis;
     
     [self.posterView setImageWithURL:[NSURL URLWithString:movie.thumbnailUrl]];
+    self.posterView.alpha = 0.0;
+    [UIView animateWithDuration:0.0 animations:^{
+        self.posterView.alpha = 1.0;
+    }];
 }
 @end
