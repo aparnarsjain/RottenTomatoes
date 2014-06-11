@@ -23,3 +23,5 @@ All images should be cached in memory and disk. In other words, images load imme
 Pods used-
 AFNetworking
 MBProgressHUD
+
+The gif is here- https://raw.githubusercontent.com/aparnarsjain/RottenTomatoes/master/rottenTomatoes/RottenTomatoes.gif

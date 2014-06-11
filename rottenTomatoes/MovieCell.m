@@ -32,7 +32,7 @@
     
     [self.posterView setImageWithURL:[NSURL URLWithString:movie.thumbnailUrl]];
     self.posterView.alpha = 0.0;
-    [UIView animateWithDuration:0.0 animations:^{
+    [UIView animateWithDuration:0.5 animations:^{
         self.posterView.alpha = 1.0;
     }];
 }
