@@ -26,7 +26,8 @@ Completed user stories:
 - AFNetworking
 - MBProgressHUD
 
-The gif is here- 
+####Preview-
+ 
 ![alt tag](https://raw.githubusercontent.com/aparnarsjain/RottenTomatoes/master/rottenTomatoes/RottenTomatoes.gif)
 
-https://raw.githubusercontent.com/aparnarsjain/RottenTomatoes/master/rottenTomatoes/RottenTomatoes.gif
+
